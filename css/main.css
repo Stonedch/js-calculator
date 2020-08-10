@@ -13,3 +13,15 @@ body {
     grid-gap: 5px;
     max-width: 300px;
 }
+
+.container__item {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #0277BD;
+}
