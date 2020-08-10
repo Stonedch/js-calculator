@@ -53,3 +53,9 @@ body {
 .container__item-back {
     grid-column: 3/-1;
 }
+
+.container__item-equal {
+    grid-column: 4;
+    grid-row: 6/8;
+    background-color: #e53935;
+}
