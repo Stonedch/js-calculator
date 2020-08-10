@@ -59,3 +59,7 @@ body {
     grid-row: 6/8;
     background-color: #e53935;
 }
+
+.container__item-zero {
+    grid-column: 1/3;
+}
